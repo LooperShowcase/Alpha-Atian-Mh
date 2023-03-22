@@ -1,0 +1,34 @@
+hr {
+  height: 1px;
+  background-color: red;
+}
+table {
+  width: 50%;
+  border-color: white;
+}
+body {
+  background-color: rgb(219, 4, 4);
+}
+.bodo {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000000;
+}
+
+.lo {
+  float: left;
+}
+
+.lo a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.lo a:hover {
+  background-color: #eb131399;
+}
